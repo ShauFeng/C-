@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : 拒絕存取路徑 'c:\users\csdd16888\desktop\專題\fix\debug\imgui directx 9 kiero hook 2.dll'。
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  kiero.cpp
+  main.cpp
+C:\Users\csdd16888\Desktop\專題\fix\ImGui DirectX 9 Kiero Hook 2\main.cpp(202,28): warning C4244: '引數': 將 'int' 轉換為 'FLOAT'，由於類型不同，可能導致資料遺失
+C:\Users\csdd16888\Desktop\專題\fix\ImGui DirectX 9 Kiero Hook 2\main.cpp(202,24): warning C4244: '引數': 將 'int' 轉換為 'FLOAT'，由於類型不同，可能導致資料遺失
+C:\Users\csdd16888\Desktop\專題\fix\ImGui DirectX 9 Kiero Hook 2\main.cpp(203,28): warning C4244: '引數': 將 'int' 轉換為 'FLOAT'，由於類型不同，可能導致資料遺失
+C:\Users\csdd16888\Desktop\專題\fix\ImGui DirectX 9 Kiero Hook 2\main.cpp(203,24): warning C4244: '引數': 將 'int' 轉換為 'FLOAT'，由於類型不同，可能導致資料遺失
+C:\Users\csdd16888\Desktop\專題\fix\ImGui DirectX 9 Kiero Hook 2\main.cpp(205,18): warning C4244: '引數': 將 'int' 轉換為 'FLOAT'，由於類型不同，可能導致資料遺失
+C:\Users\csdd16888\Desktop\專題\fix\ImGui DirectX 9 Kiero Hook 2\main.cpp(344,26): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\csdd16888\Desktop\專題\fix\ImGui DirectX 9 Kiero Hook 2\main.cpp(343,45): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\csdd16888\Desktop\專題\fix\ImGui DirectX 9 Kiero Hook 2\main.cpp(342,21): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\csdd16888\Desktop\專題\fix\ImGui DirectX 9 Kiero Hook 2\main.cpp(341,26): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  正在產生程式碼...
+LINK : fatal error LNK1104: 無法開啟檔案 'C:\Users\csdd16888\Desktop\專題\fix\Debug\ImGui DirectX 9 Kiero Hook 2.dll'
